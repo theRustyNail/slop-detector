@@ -1,5 +1,7 @@
 # slop detector
 
+Built with AI assistance; design, testing and validation my own.
+
 A browser-based tool that scans text for common AI writing patterns and highlights them in real time. Paste anything in, get an instant breakdown of what reads like it was written by a language model.
 
 Built on the pattern taxonomy from Wikipedia's [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) guide, maintained by WikiProject AI Cleanup.
